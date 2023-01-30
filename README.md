@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ibrahim-Fouad
 - 👀 I’m interested in .NET, C# and Entity Framework.
-- 🌱 I’m currently learning Docker and microservices architecture.
+- 🌱 I’m currently learning Docker, microservices architecture and advanced topics in .NET and C#.
 - 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/ibrahim-fouad/)
 
 <!---
